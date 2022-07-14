@@ -8,6 +8,7 @@ This example deploys self-hosted version of [Ghost](https://ghost.org/). Interna
 
 - Ghost
 - MySQL
+- A minor edit
 
 ## 💁‍♀️ How to use
 
